@@ -37,4 +37,4 @@ Jag testade webbplatsen genom att:
 
 ## Länk
 GitHub Pages-länk:  
-COMING SOOOOON
+how to do it actually
